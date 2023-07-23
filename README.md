@@ -1,2 +1,3 @@
 # initializing-html-portfolio
 Building a portfolio from scratch...
+An old, retro style old school portfolio
